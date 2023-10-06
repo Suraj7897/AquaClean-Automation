@@ -13,8 +13,5 @@ and BPM monitoring. With Septic Savor, you can rely on cutting-edge
 technology and a steadfast commitment to preserving your septic system, the
 environment, and lives
 
-![HomePage](https://github.com/Suraj7897/Septic-saviour/assets/107802002/abc89f13-cacb-4345-8345-1d34933e5601) 
 
-
-
-![Dashboard](https://github.com/Suraj7897/Septic-saviour/assets/107802002/a549ddc6-b03a-4228-8bb2-a19cbac5876c)
+![WhatsApp Image 2023-10-02 at 2 05 13 PM](https://github.com/Suraj7897/Septic-saviour/assets/107802002/092cadc2-dc8b-45ea-992e-da55dc2302e7)
