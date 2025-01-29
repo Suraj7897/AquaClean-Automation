@@ -95,6 +95,27 @@ Real-time monitoring of gas concentrations and personnel safety data on the web 
 
 ![WhatsApp Image 2023-10-02 at 2 05 13 PM](https://github.com/Suraj7897/Septic-saviour/assets/107802002/092cadc2-dc8b-45ea-992e-da55dc2302e7)
 
+
+![5e846b15622e7afe34d3cb59_5dcc1b24cb881d414cf022ec_septictankdiagram](https://github.com/user-attachments/assets/068800d4-7296-47e7-8033-848b0bd2cb7d)
+
+
+
+https://github.com/user-attachments/assets/55ee53af-56aa-4499-9a7f-3fa33a3fb572
+
+
+![HomePage](https://github.com/user-attachment
+
+https://github.com/user-attachments/assets/550bc5b0-6c85-4ac0-8c5b-d80fe2d800cd
+
+s/assets/934b8f5f-211c-47be-a9a5-4c56e2ae98ea)
+![WhatsApp Image 2023-10-02 at 2 05 13 PM](https://github.com/user-attachments/assets/60ad04cd-9810-466a-88dd-da044592f148)
+![Septic-Tank-Maintenance-01-0602020009-1024x628](https://github.com/user-attachments/assets/2f9a6f3f-a7eb-469d-8b0c-c54858913a87)
+
+
+
+
+
+
 🧑‍💻 Contributing
 Feel free to fork this repository, submit issues, or create pull requests to improve the project. Contributions are always welcome! 😊
 
